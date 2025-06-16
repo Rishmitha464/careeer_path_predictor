@@ -1,0 +1,11 @@
+career_data = [
+    {"career": "Data Scientist", "skills": "python, statistics, machine learning, data analysis"},
+    {"career": "Project Manager", "skills": "communication, leadership, planning, coordination"},
+    {"career": "Civil Servant", "skills": "governance, general knowledge, leadership, ethics"},
+    {"career": "Software Engineer", "skills": "coding, problem-solving, algorithms, systems"},
+    {"career": "UX Designer", "skills": "creativity, design, user experience, empathy"},
+    {"career": "Business Analyst", "skills": "data interpretation, business knowledge, communication"}
+]
+
+for row in career_data:
+    print(f"{row['career']} → {row['skills']}")

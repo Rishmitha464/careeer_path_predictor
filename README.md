@@ -34,7 +34,7 @@ career_path_predictor/
 Clone the repo
 
 
-git clone https://github.com/yourusername/career-path-predictor.git
+git clone https://github.com/Rishmitha464/career-path-predictor.git
 cd career-path-predictor
 Install dependencies
 
